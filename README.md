@@ -5,7 +5,7 @@ I go by Draff or Logic or comamnds
 
 You can contact me on discord @draff
 
-I have a [BuyMeA](https://www.buymeacoffee.com/comamnds)
+I have a [buymeacoffee](https://www.buymeacoffee.com/comamnds) if you like what I do
 
 I also have a youtube channel I never post on: [comamnds](https://www.youtube.com/@comamnds)
 
