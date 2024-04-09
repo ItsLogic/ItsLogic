@@ -5,7 +5,7 @@ I go by Draff or Logic or comamnds
 
 You can contact me on discord @draff
 
-If you have some spare cash and would like to support me please check out Github Sponsorships
+If you have some spare cash and would like to support me please check out [Github Sponsorships](https://github.com/sponsors/ItsLogic)
 
 I also have a youtube channel I never post on: [comamnds](https://www.youtube.com/@comamnds)
 
