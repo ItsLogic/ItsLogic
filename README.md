@@ -27,15 +27,7 @@ I prevously worked on the now obsolite V1 of this tool and various private tools
 # Future Projects
 Yeah man idk, right now I'm just trying to get a job. I code as a hobby so if something I find interesting comes up I'll probably work on it.
 
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-opacity: 1;
-background: url('https://github.com/ItsLogic/ItsLogic/blob/main/Cirno.gif?raw=true');
-"]{}
-```
+![the funny is now over](Cirno.gif)
+![the funny is now over](Cirno.gif)
+![the funny is now over](Cirno.gif)
+![the funny is now over](Cirno.gif)
