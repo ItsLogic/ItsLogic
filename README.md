@@ -28,5 +28,5 @@ I prevously worked on the now obsolite V1 of this tool and various private tools
 Yeah man idk, right now I'm just trying to get a job. I code as a hobby so if something I find interesting comes up I'll probably work on it.
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ItsLogic/ItsLogic/blob/main/Cirno.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: url('https://github.com/ItsLogic/ItsLogic/blob/main/Cirno.gif?raw=true');]{x0000}$}
 ```
